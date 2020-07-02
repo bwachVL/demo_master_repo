@@ -1,0 +1,3 @@
+[submodule "demo_slave_repo"]
+	path = demo_slave_repo
+	url = git@github.com:bwachVL/demo_slave_repo.git
